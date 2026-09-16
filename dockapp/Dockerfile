@@ -12,4 +12,4 @@ COPY index.js index.js
 
 EXPOSE 3003
 
-CMD ["node", "index.js"]
+CMD ["node", "index.js"]%
